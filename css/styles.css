@@ -1,0 +1,9 @@
+.wrapper{
+	padding: 15px;
+	max-width: 600px;
+	position: relative;
+	left: 30%;
+}
+
+input:invalid {border-color: red;}
+input:valid {border-color: green;}
